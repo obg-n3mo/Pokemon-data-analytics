@@ -1,2 +1,2 @@
 # Pokemon-data-analytics
-A place to generate, store, and share data about data from major pokemon tournaments.
+A place to generate, store, and share data from major pokemon tournaments.
